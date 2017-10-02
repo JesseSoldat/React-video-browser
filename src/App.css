@@ -18,3 +18,10 @@
   border: 1px solid #ddd;
   border-radius: 4px;
 }
+
+.list-group-item {
+  cursor: pointer;
+}
+.list-group-item:hover {
+  background-color: #eee;
+}
